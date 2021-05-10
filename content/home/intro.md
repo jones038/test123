@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: 活力寶備部落格
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+subtitle: 'For [歡迎來到這裡](https://wowchemy.com/)'
 
 design:
   background:
